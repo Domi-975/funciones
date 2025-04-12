@@ -1,14 +1,10 @@
 
-//function pintar(){
-//ele.style.backgroundColor = 'yellow'}
-
-//const ele = document.getElementById("ele1")
-//ele.addEventListener("click", pintar);
-
 
 
 
 // EJERCICIO 2.2
+//Modifica la función para que reciba el elemento clickeado de forma de no
+//tener que seleccionarlo nuevamente dentro de la función 
 
 //function pintar(elemento) {
    // elemento.style.backgroundColor = 'yellow';}
@@ -20,7 +16,7 @@
 
 
 
-// EJERCICIO 2.3
+// EJERCICIO 2.3   Green por defecto
 
 
 
